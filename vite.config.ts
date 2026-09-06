@@ -3,6 +3,5 @@ import { defineConfig } from 'vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/chatbot/',
-  plugins: [react()],
-})
+  base: "/ai-government-scheme-chatbot/",
+});
